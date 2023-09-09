@@ -1,7 +1,5 @@
 # 💫 About Me:
 - 👋 Hi, I’m @arin-prashar<br>- 👀 I’m interested in Cyber Security, Programming, and Penetration Testing<br>- 🌱 I’m currently learning Python, C++, and Java<br>- 💞️ I’m looking to collaborate on any projects that will help me learn more about programming and cyber security<br>
-
-## Profile Views
 [![](https://visitcount.itsvg.in/api?id=arin-prashar&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 
