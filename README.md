@@ -1,12 +1,13 @@
 # 💫 About Me:
-> - Hello, I’m [@arin-prashar](https://github.com/arin-prashar)<br> 
-> - I’m interested in Cyber Security, Programming, and Penetration Testing<br> 
-> - I’m currently learning Python, C++, Rust, Java, Kotlin, HTML/CSS, Next-Js, React-Js<br> 
-> - I’m looking to collaborate on any projects that will help me learn more about programming and cyber security<br><br>
+> Hello, I'm Arin Prashar(aka DKGamer02AI), a System Administrator,Pentester and Vulnerability Analyst and ardent Open Source Enthusiast hailing from the vibrant landscape of Himachal Pradesh,India.
+> <br>
+> With my insatiable curiosity and unwavering passion for cybersecurity and public security, I love to explore and unravel its mysteries. I am confident in my abilities and bring a wealth of knowledge, skills and expertise to every project I work on.
+> <br>
+> I am proficient in multiple programming languages and keep myself updated using CVE database and more such databases. I am also an unofficial member of the Cyber Security Club of my college and participated in various CTFs and Hackathons.
+
+
 
 [![](https://visitcount.itsvg.in/api?id=arin-prashar&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arin_prashar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashar-arin) 
@@ -25,7 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-prashar&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arin-prashar&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arin-prashar&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
