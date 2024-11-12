@@ -3,7 +3,7 @@
 > <br>
 > With my insatiable curiosity and unwavering passion for cybersecurity and public security, I love to explore and unravel its mysteries. I am confident in my abilities and bring a wealth of knowledge, skills and expertise to every project I work on.
 > <br>
-> I am proficient in multiple programming languages and keep myself updated using CVE database and more such databases. I am also an unofficial member of the Cyber Security Club of my college and participated in various CTFs and Hackathons.
+> I am proficient in multiple programming languages and keep myself updated using CVE database and more such databases. I am also an member of the Cyber Security Club of my college and participated in various CTFs and Hackathons.
 
 
 
