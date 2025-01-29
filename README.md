@@ -6,8 +6,6 @@
 > I am proficient in multiple programming languages and keep myself updated using CVE database and more such databases. I am also an member of the Cyber Security Club of my college and participated in various CTFs and Hackathons.
 
 
-
-[![](https://visitcount.itsvg.in/api?id=dkgamer02ai&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arin_prashar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashar-arin) 
